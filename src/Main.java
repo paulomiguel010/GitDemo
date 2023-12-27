@@ -17,6 +17,13 @@ public class Main {
         System.out.println("a = "+a +" b ="+b);
     }
 
+    public void postJira(){
+        System.out.println("postJira");
+        System.out.println("postJira2");
+        System.out.println("postJira3");
+
+    }
+
 
     
 }
