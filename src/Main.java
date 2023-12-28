@@ -26,8 +26,13 @@ public class Main {
         System.out.println("postJira5");
         System.out.println("postJira6");
 
+    }
 
-
+    public void test1(){
+        System.out.println("testing");
+    }
+    public void test2(){
+        System.out.println("testing");
     }
 
 
