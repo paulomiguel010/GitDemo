@@ -34,6 +34,12 @@ public class Main {
     public void test2(){
         System.out.println("testing");
     }
+    public void test3(){
+        System.out.println("testing");
+    }
+    public void test4(){
+        System.out.println("testing");
+    }
 
 
     
